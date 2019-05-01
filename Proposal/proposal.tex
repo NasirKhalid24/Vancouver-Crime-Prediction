@@ -1,0 +1,105 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+\usepackage{cite}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+ 
+\usepackage{hyperref}
+
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\begin{document} 
+    \title{
+        Crime Prediction using Deep Learning\\[0.3cm]
+        \large Project Proposal\\
+        ELE494-09
+    }
+
+    \author{
+        \IEEEauthorblockN{Yousif Khaireddin}
+        \IEEEauthorblockA{b00063618\\}
+        \and
+        \IEEEauthorblockN{Nasir Khalid}
+        \IEEEauthorblockA{b00065082\\}
+    }
+
+    \maketitle
+
+    \section{Objective}
+
+    The objective of our project is to develop a trained neural network
+    that is capable of predicting where a future crime may occur and when it will occur within the city of Vancouver.
+    \section{Datasets}
+
+    For this project we will be narrowing it down to a specific city in which
+    we will be predicting crimes. The decision of which city to pick comes down ultimately to
+    the one with the largest and most accesible dataset.\\
+
+    From our research we found a dataset on Kaggle that covers crimes in Vancouver from
+    2003 to 2017. It contains 530,652 records in total and the columns are as follows:
+
+    \begin{itemize}
+        \item Type of crime
+        \item Year
+        \item Day
+        \item Hour
+        \item Minute
+        \item Block of crime
+        \item Neighbourhood of crime
+        \item X Co-ordinate of crime in UTM Zone 10
+        \item Y Co-ordinate of crime in UTM Zone 10
+        \item Latitude
+        \item Longitude\\
+    \end{itemize}
+    
+    In addition to this data we also find another dataset about weather conditions in
+    Vancouver.
+
+    \begin{itemize}
+        \item Humidity
+        \item Temperature
+        \item Windspeed
+        \item Date and Time\\
+    \end{itemize}
+
+    We hope to use a combination of these two datasets to predict crime based on multiple variables. By linking the weather
+    conditions of the second dataset along with the time, date and location of the first we can try to understand if weather plays a role
+    in the occurance of crime and type of crimes being commited.\\
+
+    \section{Network Inputs \& Outputs}
+
+    Our plan is to create a neural network where the main inputs will be date, time and weather conditions. The network will then
+    use all this data and return a probability of crime occuring. It will also return information on where the
+    crime is most likely to happen within the city of Vancouver.
+
+    We have not yet decided on what sort of network archiecture to use and we are keeping our options open. Some literature review
+    is needed before arriving at a final decision.
+
+    \section{Motivation}
+
+    Such a neural network can help police and local municipality in predicting where crime occurs in the city and
+    therefore they can prepare before hand on how to prepare police patrols and respond to a crime as quickly as possible. 
+
+    \section{Conclusion}
+
+    We believe that our project is capable of benefitting society as a whole as it can help reduce crime and help first
+    responders. The datasets we found provide us with a multitude of variables to use during training and by the end we hope
+    to have a successful deep learning network.
+    
+    \section{Links to Datasets}
+
+    \href{https://www.kaggle.com/wosaku/crime-in-vancouver}{Vancouver Crime Dataset:}
+
+    \begin{footnotesize}
+        https://www.kaggle.com/wosaku/crime-in-vancouver\\    
+    \end{footnotesize}
+    
+
+    \href{https://www.kaggle.com/selfishgene/historical-hourly-weather-data}{Vancouver Weather Dataset:}
+
+    \begin{footnotesize}
+        https://www.kaggle.com/selfishgene/historical-hourly-weather-data    
+    \end{footnotesize}
+    
+\end{document}

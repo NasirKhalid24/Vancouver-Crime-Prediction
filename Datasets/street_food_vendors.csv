@@ -1,0 +1,92 @@
+KEY,LAT,LON,VENDOR_TYPE,STATUS,BUSINESS_NAME,LOCATION,DESCRIPTION
+DT48,49.277427325293999,-123.114069374134004,vendor_food,open,,East Side of 800 Beatty St - 6 Metres South of Robson St,Hot Dogs
+EB04,49.284492517330001,-123.142926123067994,vendor_food,open,,South Side of 1700 Beach Ave - East Side of Bidwell St,Hot Dogs
+DT21,49.274750229558201,-123.122779848109005,vendor_food,open,,South Side of 300 Davie St - 6 Metres East of Hamilton St,Hot Dogs
+EB05,49.288728488158100,-123.143229444439001,vendor_food,open,,South Side of 1900 Beach Ave - 17 Metres West of Gilford St,Hot Dogs
+GM03,49.282319592486999,-123.118235028068000,vendor_food,open,,East side of 700 Granville St - 6 Metres South W Georgia St,Hot Dogs
+GM05,49.280517857830603,-123.120951896798005,vendor_food,open,,East Side of 800 Granville St - 30 Metres North of Smithe St,Hot Dogs
+GM18,49.282470148547802,-123.118426844134007,vendor_food,open,,West Side of 700 Granville St - 5 Metres South of W Georgia St,Hot Dogs
+GT04,49.283989174405200,-123.106609298224001,vendor_food,open,,North Side of 100 Water St - 10 Metres West of Abbott St,Hot Dogs
+GT05,49.284446790659203,-123.109160409685998,vendor_food,open,,North Side of 300 Water St - 17 Metres West of Cambie St,Hot Dogs
+DT02,49.279889700465901,-123.110258929797993,vendor_food,open,,North Side of Dunsmuir St - 6 Metres East of Beatty St,Hot Dogs
+OD05,49.262216047658299,-123.069072741187000,vendor_food,open,,South Side of 1700 East Broadway - 37 Metres East of Commercial Dr,Hot Dogs
+DT37,49.283488792081002,-123.122731856952996,vendor_food,open,,West Side of 700 Burrard St - 15 Metres North of Robson St,Hot Dogs
+DT10,49.278793053754299,-123.108008079327007,vendor_food,open,,Expo Boulevard - 20 Metres West of Abbott St,Hot Dogs
+DT38,49.283468033509799,-123.119863220162998,vendor_food,open,,South Side of 800 W Georgia St - 55 Metres West of Howe St,Hot Dogs
+DT13,49.283222497624401,-123.122520505305999,vendor_food,open,,North Side of 900 Robson St - 6 Metres East of Burrard St,Hot Dogs
+OD12,49.209891679266200,-123.117031734899996,vendor_food,open,,East Side of 8400 Cambie St - 75 Metres South of SW Marine Dr,Hot Dogs
+DT61,49.286949000000000,-123.116782000000001,vendor_food,open,Actual Oden,South Side of 900 W Hastings - 10 metres East of Burrard St,Japanese Cuisine
+DT79,49.283922020680301,-123.123569702796004,vendor_food,open,Ali's Hot Dogs,North Side of 1000 Robson St,Hot Dogs
+DT57,49.286528220057399,-123.113567537335996,vendor_food,open,Arturo's Mexico To Go,North Side of 700 W Cordova St - 14 metres East of Howe St,Mexican Cuisine
+C18,49.286951978224899,-123.118192426381995,vendor_food,open,Aussie Pie Guy,Authorised Parking Meter - 1000 W Pender St,Australian Pies
+GM13,49.282362614727901,-123.118591524118003,vendor_food,open,BBKB Kaboom Box,West Side of 700 Granville St - South of W Georgia St,Seafood and Western
+C15,49.285193682320802,-123.122093113147997,vendor_food,open,Bandidas,Authorised Parking Meter - North Side of 1000 W Georgia St,Vegan Cuisine 
+C14,49.281987224075202,-123.116846018079997,vendor_food,open,Brasilian Roots,Authorised Parking Meter - East Side of 600 Seymour St,Brasilian Cuisine 
+DT40,49.281547013791297,-123.119934651565003,vendor_food,open,Cazba Express,North Side of 700 Robson St - 12 Metres West of Granville St,Kebabs
+DT42,49.282753364657303,-123.122135785725007,vendor_food,open,Cheesey Does It,South Side of 900 Robson St - 16 Metres West of Hornby St,Sandwiches
+C12,49.287612530414002,-123.115773447167996,vendor_food,open,Chickpea,Authorised Parking Meter - North Side of W Cordova St,Vegetarian
+GT02,49.283989749007603,-123.106627254803996,vendor_food,open,Chou Chou Crepes,North Side of 100 Water St - 10 Metres West of Abbott St,French Crepes
+C21,49.287838000000001,-123.119287999999997,vendor_food,open,Come Arepa,Authorised Parking Meter - 1000 W Hastings St,Venezuelan Cuisine
+DT74,49.282108999999998,-123.121122000000000,vendor_food,open,Commissary Connect,South Side of 800 Robson St- 13 Metres West of Howe St,Variety Menu
+DT70,49.284905103152703,-123.118581094106005,vendor_food,open,Commissary Connect,West Side of 600 Hornby St - 6 Metres South of Dunsmuir St,Variety Menu
+DT59,49.283508765027499,-123.120309650842998,vendor_food,open,Commissary Connect,East Side of 700 Hornby St - 22 metres South of W Georgia St,Variety Menu
+GM20,49.282819013251597,-123.117466131689994,vendor_food,open,Crab Park Chowdery,East Side of 600 Granville St - 30 Metres North of W Georgia St,Chowders and Soups
+DT71,49.291241690861902,-123.135271203846003,vendor_food,open,Didi's Greek,South Side of 1700 Robson St - 10 Metres East of Denman St,Greek Cuisine
+DT54,49.287235462135399,-123.112870852908998,vendor_food,open,Dim Sum Express,East Side of 200 Howe St - 100 Metres North of W Cordova St,Dim Sum
+C13,49.282367834776799,-123.120443626709999,vendor_food,open,Disco Cheetah,Authorised Parking Meter West Side of 700 Howe St,Korean 
+OD18,49.258474676041899,-123.101569148690999,vendor_food,open,Dog Meister,West Side of 2900 Main St - 20 Metres North of E 14th Ave,Hot Dogs
+DT75,49.282313000000002,-123.121387999999996,vendor_food,open,Eat Chicken Wraps,South Side of 800 Robson St - 28 Metres East of Hornby St,Wraps and Sandwiches
+DT49,49.281928567065300,-123.121098559160004,vendor_food,open,Eat Chicken Wraps,West Side of 800 Howe St - 5 Metres South of Robson St,Wraps and Sandwiches
+C23,49.286811000000000,-123.114022000000006,vendor_food,open,Fat Duck Mobile Eatery,Authorised Parking Meter - North Side of 800 W Cordova St,International Comfort Foods
+C9,49.288671999999998,-123.118453000000002,vendor_food,open,Feastro - The Rolling Bistro,Authorised Parking Meter - Thurlow St at W Cordova St,Local Meats and Seafood
+C16,49.282438663530201,-123.120345228347006,vendor_food,open,Feastro The Rolling Bistro,Authorised Parking Meter West Side of 700 Howe St,Local Meats and Seafood
+C8,49.282054529421501,-123.124511374389002,vendor_food,open,Gourmet Syndicate,Authorised Parking Meter East Side of 900 Burrard St,Comfort Food
+OD03,49.263483829402098,-123.138921554364998,vendor_food,open,Holy Smokes,South Side 1500 West Broadway - 6 Metres West of Granville St,Hot Dogs
+DT52,49.282419926839701,-123.124363670915997,vendor_food,open,Japadog,West Side of 800 Burrard St - 2.5 Metres North of Smithe St,Hot Dogs
+DT26,49.286363000000001,-123.117884000000004,vendor_food,open,Japadog,East Side of 500 Burrard St - 6 Metres South of West Pender St,Hot Dogs
+DT69,49.285906093977701,-123.112525974405997,vendor_food,open,Japadog,North Side of 600 W Cordova St - 6 Metres East of Granville St,Hot Dogs
+OD06,49.262216537032003,-123.068886047286000,vendor_food,open,La Bomba Taqueria,South Side of 1700 E Broadway,Tacos and Fresh Salsas
+C17,49.286591548247699,-123.125618908570004,vendor_food,open,Le Tigre,Authorised Parking Meter North Side of Alberni St - East of Bute St,Chinese Cuisine
+EB03,49.289682739578097,-123.144697763958007,vendor_food,open,Lemon Sea,South Side of 2000 Beach Av - 30 metres West of Chilco St,Lemonade and Crepes
+EB01,49.287324013552997,-123.142505040930004,vendor_food,open,Mac BBQ,South Side of 1800 Beach Av - East of Davie St,Hot Dogs
+EB07,49.287587823605200,-123.142526485066000,vendor_food,open,Mac BBQ,South Side of 1800 Beach Av - West of Davie St,Hot Dogs
+DT64,49.283289602204697,-123.119611425531005,vendor_food,open,Marimba,South Side of 800 W Georgia St - 30 Metres West of Howe St,Middle Eastern Cuisine
+GM17,49.283807299327002,-123.115997593017994,vendor_food,open,Master Chef's Kebab House,East Side of 500 Granville St - 10 Metres North of Dunsmuir St,Kebabs
+C11,49.285657999999998,-123.119749999999996,vendor_food,open,Meet to Eat,Authorised Parking Meter South Side of 1000 Dunsmuir St,Kosher Israeli
+DT15,49.279276035905802,-123.129163571627004,vendor_food,open,Meet to Eat,West Side of 1100 Burrard St - 10 Metres North of Davie St,Kosher Israeli
+DT39,49.282275315129198,-123.121307872222005,vendor_food,open,Mo's Hot Dog Plus,South Side of 800 Robson St  -30 Metres West of Howe St,Western
+DT16,49.284218000000003,-123.117632999999998,vendor_food,open,Mogu,West Side of Howe St - South of Dunsmuir St,Japanese Cuisine
+DT67,49.281956999999998,-123.119039000000001,vendor_food,open,Mr. Arancino,West Side of Granville St - 75 Metres North of Robson St,Italian Cuisine
+DT05,49.280801242943497,-123.115237361116996,vendor_food,open,Mr. Camaron,North Side of W Georgia St - 10 Metres West of Homer St,Drinks and Smoothies
+GM15,49.282542325066203,-123.118453808195000,vendor_food,open,Mr. Sandwich,South Side of 700 W Georgia St - 20 Metres West of Granville St,Sandwiches
+DT58,49.282584448484201,-123.121480946570003,vendor_food,open,Mr. Shawarma,North Side of 800 Robson St - East of Hornby St,Shawarma
+C3,49.285361000000002,-123.120163000000005,vendor_food,open,Mr. Shawarma,Authorised Parking Meter - North Side of 1000 Melville St,Shawarma
+GM16,49.283019965893203,-123.117190394480005,vendor_food,open,Mr. Shawarma,East Side of 600 Granville St - 80 Metres North of W Georgia St,Middle Eastern Cuisine
+DT01,49.278746328918203,-123.112040050998999,vendor_food,open,Mr. Tube Steak,East Side of 600 Beatty St - 6 Metres North of West Georgia St,Hot Dogs
+C10,49.282209486534803,-123.120684903216002,vendor_food,open,Mum's Grilled Cheese Truck,Authorised Parking Meter -West Side of 700 Howe St,Grilled Cheese and Soups
+GM10,49.281297184851297,-123.120079603126996,vendor_food,open,Potato Tornado,West Side of 800 Granville St - 6 Metres South of Robson St,Potato Based Dishes
+C25,49.271307845850998,-123.106548732321997,vendor_food,open,Roaming Dragon,Authorised Parking Meter East Side of 1600 Manitoba St,Asian Fusion
+C7,49.283096706897098,-123.122918691376000,vendor_food,open,Roaming Dragon,Authorised Parking Meter East Side of 800 Burrard St,Asian Fusion
+DT35,49.279378000000001,-123.128964999999994,vendor_food,open,Russett Shack,West Side of 1100 Burrard St - 10 Metres North of Davie St,Potato Based Dishes
+EB06,49.286003000000001,-123.139739000000006,vendor_food,open,San Juan Family Farm,Authorised Parking Meter North Side of 1600 Davie St,"Fruit Shakes, Smoothies and Juices"
+DT56,49.291082145303200,-123.123682322296006,vendor_food,open,Sea Dogs,Coal Harbour Seawall  - 200 Metres Northeast of Broughton St,Hot Dogs
+GM21,49.282572140421500,-123.118501288120001,vendor_food,open,Soho Road Naan Kebab,South Side of 700 W Georgia St - 20 Metres West of Granville St,Indian Cuisine
+DT36,49.282280404515902,-123.121070522118004,vendor_food,open,Suassy Thai,North Side of 800 Robson St - 30 Metres West of Howe St,Thai Cuisine
+C26,49.285532114976299,-123.122623764676007,vendor_food,open,Super Thai,Authorised Parking Meter North Side of 1000 W Georgia St,Thai Cuisine
+C5,49.282301179211203,-123.120529317155004,vendor_food,open,Tacofino,Authorised Parking Meter West Side of 700 Howe St,Tacos and Burritos
+C4,49.286031000000001,-123.119001999999995,vendor_food,open,Tacofino White Lightening,Authorised Parking Meter West Side 500 Burrard St,Tacos and Burritos
+DT32,49.285173911567398,-123.111358832752003,vendor_food,open,Tandoori Tikka Dog,North Side of 500 W Cordova St - 59 Metres West of Richards St,Hot Dogs
+DT73,49.279797258236798,-123.114194279396997,vendor_food,open,Tandoori Tikka Dog,South Side of 200 West Georgia St - 8 Metres East of Hamilton St,Hot Dogs
+C20,49.286538400086101,-123.118158491193000,vendor_food,open,The Fryinig Pan,Authorised Parking Meter West Side of 500 Burrard St,Fried Chicken Sandwiches
+DT41,49.283102350331802,-123.122696998340004,vendor_food,open,The Juice Truck,South Side of 900 Robson - 6 Metres East of Burrard St,Juice and Smoothies
+C6,49.283031999999999,-123.109452000000005,vendor_food,open,The Juice Truck,Authorised Parking Meter West Side of 300 Cambie St,Juice and Smoothies
+DT72,49.273835888687202,-123.121519625651004,vendor_food,open,The Loving Hut,East Side of 1200 Pacific Boulevard - 10 Metres South of Davie St,Vegetarian and Vegan
+C22,49.287858000000000,-123.119361999999995,vendor_food,open,The Praguery,Authorised Parking Meter - 1000 W Hastings St,Central European Desserts
+C19,49.288016431788698,-123.119509663146999,vendor_food,open,The Reef,Authorised Parking Meter - East Side of Thurlow St - North of W Hastings St,Caribbean
+DT47,49.272850160917400,-123.119509851201002,vendor_food,open,V Dub Dogs,Foot of Davie St - 2 Metres South of Marinaside Cres.,Hot Dogs
+DT06,49.283084042815403,-123.122660630477995,vendor_food,open,Van Dog,South Side of 900 Robson St - 12 Metres East of Burrard St,Hot Dogs
+GM04,49.282314404316999,-123.118066770004006,vendor_food,open,Van Dog,South Side of 600 W Georgia St - 6 Metres East of Granville St,Western
+GM11,49.279745514680300,-123.122119558315006,vendor_food,open,Van Dog,East Side of 900 Granville St - 75 Metres South of Smithe St,Hot Dogs
+C1,49.286902642864497,-123.117533501725006,vendor_food,open,Vie Niapolotan,Authorised Parking Meter - West Side of 400 Burrard St,Italian Cuisine
+C24,49.285493728805498,-123.122541268297994,vendor_food,open,Vij's Railway Express,Authorised Parking Meter North Side of 1000 W Georgia St,Indian Cuisine
+DT31,49.284522117000797,-123.115175231668999,vendor_food,open,Yokabai,West Side of 500 Granville St - 10 Metres South of West Pender St,Burgers and Fries
