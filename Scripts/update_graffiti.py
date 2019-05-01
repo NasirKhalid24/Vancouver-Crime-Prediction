@@ -1,49 +1,40 @@
 import pandas as pd
 import numpy as np
 from math import radians, cos, sin, asin, sqrt
+from os import path 
 
-def haversine(lat1, lon1, lat2, lon2):
-    """
-    Calculate the great circle distance between two points 
-    on the earth (specified in decimal degrees)
-    """
-    # convert decimal degrees to radians 
-    lon1, lat1, lon2, lat2 = map(radians, [lon1, lat1, lon2, lat2])
+basepath = path.dirname(__file__)
 
-    # haversine formula 
-    dlon = lon2 - lon1 
-    dlat = lat2 - lat1 
-    a = sin(dlat/2)**2 + cos(lat1) * cos(lat2) * sin(dlon/2)**2
-    c = 2 * asin(sqrt(a)) 
-    r = 6371 # Radius of earth in kilometers. Use 3956 for miles
-    return c * r
+finalcrimepath = path.abspath(path.join(basepath, "..","Datasets", "final_crime.csv"))
+graffitipath = path.abspath(path.join(basepath, "..","Datasets", "Graffiti.csv"))
 
-df_crimes = pd.read_csv('../Datasets/final_crime.csv')
+df_crimes = pd.read_csv(finalcrimepath)
 df_crimes = df_crimes[['Latitude', 'Longitude']] 
 df_crimes = np.array(df_crimes)
+df_crimes = np.radians(df_crimes)
 
-df_graffiti = pd.read_csv('../Datasets/Graffiti.csv')
+df_graffiti = pd.read_csv(graffitipath)
 df_graffiti = df_graffiti[['Latitude', 'Longitude']] 
 df_graffiti = np.array(df_graffiti)
+df_graffiti = np.radians(df_graffiti)
 
 distance_to_graffiti = []
-print(df_crimes)
-# convert decimal degrees to radians 
-df_crimes, df_graffiti = map(radians, [df_crimes, df_graffiti])
-print(df_crimes)
-# for crime in df_crimes:
-#     if crime[0] != 0:
-#         distance = 100000000
-#         for graffiti in df_graffiti:
-#             x = haversine(crime[0], crime[1], graffiti[0],  graffiti[1])
-#             if x < distance:
-#                 distance = x
-#         distance_to_graffiti.append(distance)
-#     else:
-#         distance_to_graffiti.append(-1)
+r = 6371
+total = len(df_crimes[:, 0])
 
-# print("FINISHED LOOP!")
+for i, crime in enumerate(df_crimes):
+    if crime[0] != 0:
+        x =  df_graffiti - crime
+        a = np.square(np.sin(x[:, 0]/2.0)) + np.cos(crime[0]) * np.cos(df_graffiti[:, 0]) * np.square(np.sin(x[:, 1]/2.0))
+        c = 2 * np.arcsin(np.sqrt(a)) 
+        distance_to_graffiti.append(np.amin(c)*r)
+    else:
+        distance_to_graffiti.append(-1)
+    if ((i/total)*100)%25 == 0:
+        print("% Done = " +str(((i/total)*100)))
 
-# final_crime = pd.read_csv('../Datasets/final_crime.csv')
-# final_crime['Graffiti'] = distance_to_graffiti
-# final_crime.to_csv('../Datasets/final_crime.csv', index=False)
+print("FINISHED LOOP!")
+
+final_crime = pd.read_csv(finalcrimepath)
+final_crime['Graffiti'] = distance_to_graffiti
+final_crime.to_csv(finalcrimepath, index=False)
