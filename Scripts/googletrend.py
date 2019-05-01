@@ -10,7 +10,6 @@ crimepath = path.abspath(path.join(basepath, "..","Datasets", "final_crime.csv")
 
 # Importing the data
 googletrend = pd.read_csv(trendpath, index_col='Month')
-#googletrend = pd.read_csv('googletrend.csv')
 
 # Importing CSV file and extracting required portion
 final_crime = pd.read_csv(crimepath)
@@ -24,7 +23,8 @@ crimes = np.array(crimes)
 googletrend = np.array(googletrend)
 trendvalue = []
 
-for crime in crimes:
+total = len(crimes[:, 0])
+for i, crime in enumerate(crimes):
     #obtain the year and month of each crime
     y = crime[1]
     m = crime[2]
@@ -35,6 +35,8 @@ for crime in crimes:
     
     #store google trend value of the word 'crime' in an array
     trendvalue.append(googletrend[offset][0])
+    if ((i/total)*100)%25 == 0:
+        print("% Done = " +str(((i/total)*100)))
 
-final_crime['Google Trends'] = trendvalue
-print(final_crime)
+final_crime['Google_Trends'] = trendvalue
+final_crime.to_csv(crimepath, index=False)
