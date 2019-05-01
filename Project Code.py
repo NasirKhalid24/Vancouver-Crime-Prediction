@@ -24,7 +24,6 @@ df.set_index('DateTimeMix', inplace=True)
 df = df.sort_values(['YEAR', 'MONTH', 'DAY'], ascending=True)
 
 
-
 # Add a new column called crimes and give it value of 1 since all dataset rows are crimes
 df['Crime'] = np.ones(df.shape[0])
 
