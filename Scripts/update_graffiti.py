@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-from math import radians, cos, sin, asin, sqrt
 from os import path 
 
 basepath = path.dirname(__file__)
