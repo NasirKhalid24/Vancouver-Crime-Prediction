@@ -65,32 +65,20 @@ bins =[]
 for c in crimes:
   
   count = c[3]
-  if count < 25:
+  if count < 50:
     case = 0
   
-  elif count < 50:
+  elif count < 100:
     case = 1
     
-  elif count < 75:
+  elif count < 150:
     case = 2
     
-  elif count <100:
+  elif count <200:
     case = 3
       
-  elif count < 125:
-    case = 4
-    
-  elif count < 150:
-    case = 5
-    
-  elif count < 175:
-    case = 6
-
-  elif count < 200:
-    case = 7
-    
   else:
-    case = 8
+    case = 4
     
   bins.append(case)
 
