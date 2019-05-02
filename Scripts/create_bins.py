@@ -2,10 +2,12 @@
 import numpy as np
 import pandas as pd
 from os import path 
+import matplotlib.pyplot as plt
 
 basepath = path.dirname(__file__)
 crimepath = path.abspath(path.join(basepath, "..","Datasets", "final_crime.csv"))
 neighbourhood_path = path.abspath(path.join(basepath, "..","Datasets", "cov_localareas.csv"))
+binspath = path.abspath(path.join(basepath, "..","Datasets", "crime_ymd_bins.csv"))
 
 final_crime = pd.read_csv(crimepath)
 crime = final_crime[['YEAR','MONTH','DAY', 'Neighbourhood']] 
@@ -26,14 +28,11 @@ crime = crime.sort_values(['YEAR', 'MONTH','DAY'], ascending=True)
 
 
 
-# Add a new column called crimes and give it value of 1 since all dataset rows are crimes
+# Add a clustered_crime column called crimes and give it value of 1 since all dataset rows are crimes
 crime['Crime'] = np.ones(crime.shape[0])
-
-
 
 addresses = pd.read_csv(neighbourhood_path, error_bad_lines=False)
 addresses = addresses['NAME']
-
 
 for i in addresses:
     subset = crime[crime['Neighbourhood'] == i]
@@ -49,5 +48,54 @@ for i in addresses:
         crime = crime.append(crime_extra)
 
 crime = crime.sort_index()
+
+print("Shape of clustered_crime Dataset: " + str(crime.shape))
+
+clustered_crime = crime.resample('1d').sum()
+clustered_crime['YEAR'] = clustered_crime.index.year
+clustered_crime['MONTH'] = clustered_crime.index.month
+clustered_crime['DAY'] = clustered_crime.index.day
+
+plt.plot(clustered_crime['Crime'])
+# plt.show()
+
+crimes = np.array(clustered_crime)
+
+bins =[]
+for c in crimes:
   
-print("Shape of New Dataset: " + str(crime.shape))
+  count = c[3]
+  if count < 25:
+    case = 0
+  
+  elif count < 50:
+    case = 1
+    
+  elif count < 75:
+    case = 2
+    
+  elif count <100:
+    case = 3
+      
+  elif count < 125:
+    case = 4
+    
+  elif count < 150:
+    case = 5
+    
+  elif count < 175:
+    case = 6
+
+  elif count < 200:
+    case = 7
+    
+  else:
+    case = 8
+    
+  bins.append(case)
+
+
+clustered_crime['Bins'] = bins
+print(clustered_crime)
+
+clustered_crime.to_csv(binspath, index=False)
