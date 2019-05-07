@@ -7,7 +7,6 @@ basepath = path.dirname(__file__)
 trendpath = path.abspath(path.join(basepath, "..","Datasets", "googletrend.csv"))
 crimepath = path.abspath(path.join(basepath, "..","Datasets", "final_crime.csv"))
 
-
 # Importing the data
 googletrend = pd.read_csv(trendpath, index_col='Month')
 

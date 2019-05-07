@@ -12,17 +12,14 @@ binspath = path.abspath(path.join(basepath, "..","Datasets", "crime_ymdn_bins.cs
 final_crime = pd.read_csv(crimepath)
 crime = final_crime[['YEAR','MONTH','DAY', 'Neighbourhood']] 
 
-
 print("Shape of Original Dataset : " + str(crime.shape))
 
 # Create a key which is a date time object
-date_time_col = pd.to_datetime(crime[['YEAR',  'MONTH','DAY']])
+date_time_col = pd.to_datetime(crime[['YEAR', 'MONTH','DAY']])
 crime['DateTimeMix'] = date_time_col
 crime.set_index('DateTimeMix', inplace=True)
 
 crime = crime.sort_values(['YEAR', 'MONTH','DAY'], ascending=True)
-
-
 
 # Add a clustered_crime column called crimes and give it value of 1 since all dataset rows are crimes
 crime['Crime'] = np.ones(crime.shape[0])
@@ -56,7 +53,6 @@ for i in addresses:
 
     final_dataset = final_dataset.append(clustered_subset)
 
-
 print("Shape of final_dataset Dataset: " + str(final_dataset.shape))
 
 crimes = np.array(final_dataset)
@@ -64,6 +60,11 @@ crimes = np.array(final_dataset)
 bins =[]
 for c in crimes:
   
+
+  # 01
+  # 23
+  # 45
+  # 6
   count = c[3]
   if count < 2:
     case = 0
