@@ -12,12 +12,8 @@ binspath = path.abspath(path.join(basepath, "..","Datasets", "crime_ymd_bins.csv
 final_crime = pd.read_csv(crimepath)
 crime = final_crime[['YEAR','MONTH','DAY', 'Neighbourhood']] 
 
-# Remove invalid date data
-crime = crime[pd.isnull(crime['Neighbourhood']) != pd.isnull(pd.NaT)]
-print("Shape of Dataset with Invalid Dates Removed and Crime added: " + str(crime.shape))
 
 print("Shape of Original Dataset : " + str(crime.shape))
-
 
 # Create a key which is a date time object
 date_time_col = pd.to_datetime(crime[['YEAR',  'MONTH','DAY']])
@@ -34,56 +30,57 @@ crime['Crime'] = np.ones(crime.shape[0])
 addresses = pd.read_csv(neighbourhood_path, error_bad_lines=False)
 addresses = addresses['NAME']
 
+final_dataset = pd.DataFrame()
 for i in addresses:
     subset = crime[crime['Neighbourhood'] == i]
+
     crime_extra = subset.groupby(level=0).count().resample('1d').asfreq()
-    crime_extra = crime_extra[pd.isna((crime_extra['Crime']))]
-  
-    if(crime_extra.shape[0] != 0 ):
-        crime_extra['Crime'] = 0
-        crime_extra['YEAR'] = crime_extra.index.year
-        crime_extra['MONTH'] = crime_extra.index.month
-        crime_extra['DAY'] = crime_extra.index.day
-        crime_extra['Neighbourhood'] = i
-        crime = crime.append(crime_extra)
 
-crime = crime.sort_index()
+    no_crime = crime_extra[pd.isna((crime_extra['Crime']))]
+    
+    if(no_crime.shape[0] != 0 ):
+        no_crime['Crime'] = 0
+        no_crime['YEAR'] = no_crime.index.year
+        no_crime['MONTH'] = no_crime.index.month
+        no_crime['DAY'] = no_crime.index.day
+        no_crime['Neighbourhood'] = i
 
-print("Shape of clustered_crime Dataset: " + str(crime.shape))
+        subset = subset.append(no_crime)
 
-clustered_crime = crime.resample('1d').sum()
-clustered_crime['YEAR'] = clustered_crime.index.year
-clustered_crime['MONTH'] = clustered_crime.index.month
-clustered_crime['DAY'] = clustered_crime.index.day
+    clustered_subset = subset.resample('1d').sum()
+    clustered_subset['YEAR'] = clustered_subset.index.year
+    clustered_subset['MONTH'] = clustered_subset.index.month
+    clustered_subset['DAY'] = clustered_subset.index.day
+    clustered_subset['Neighbourhood'] = i
+    
 
-plt.plot(clustered_crime['Crime'])
-# plt.show()
+    final_dataset = final_dataset.append(clustered_subset)
 
-crimes = np.array(clustered_crime)
+
+print("Shape of final_dataset Dataset: " + str(final_dataset.shape))
+
+crimes = np.array(final_dataset)
 
 bins =[]
 for c in crimes:
   
   count = c[3]
-  if count < 50:
+  if count < 2:
     case = 0
   
-  elif count < 100:
+  elif count < 4:
     case = 1
     
-  elif count < 150:
+  elif count < 6:
     case = 2
     
-  elif count <200:
-    case = 3
-      
   else:
-    case = 4
+    case = 3
     
   bins.append(case)
 
 
-clustered_crime['Bins'] = bins
-print(clustered_crime)
+final_dataset['Bins'] = bins
+print(final_dataset)
 
-clustered_crime.to_csv(binspath, index=False)
+final_dataset.to_csv(binspath, index=False)
