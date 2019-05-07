@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 basepath = path.dirname(__file__)
 crimepath = path.abspath(path.join(basepath, "..","Datasets", "final_crime.csv"))
 neighbourhood_path = path.abspath(path.join(basepath, "..","Datasets", "cov_localareas.csv"))
-binspath = path.abspath(path.join(basepath, "..","Datasets", "crime_ymd_bins.csv"))
+binspath = path.abspath(path.join(basepath, "..","Datasets", "crime_ymdn_bins.csv"))
 
 final_crime = pd.read_csv(crimepath)
 crime = final_crime[['YEAR','MONTH','DAY', 'Neighbourhood']] 
