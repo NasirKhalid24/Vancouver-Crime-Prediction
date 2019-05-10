@@ -11,46 +11,49 @@ Database file #1: report.bib
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in olligschlaegerartificial
+Warning--empty year in olligschlaegerartificial
 
 Done.
-You've used 5 entries,
+You've used 22 entries,
             4087 wiz_defined-function locations,
-            845 strings with 7884 characters,
-and the built_in function-call counts, 1527 in all, are:
-= -- 90
-> -- 13
-< -- 0
-+ -- 8
-- -- 2
-* -- 54
-:= -- 267
-add.period$ -- 6
-call.type$ -- 5
-change.case$ -- 5
-chr.to.int$ -- 0
-cite$ -- 5
-duplicate$ -- 127
-empty$ -- 162
-format.name$ -- 3
-if$ -- 322
+            915 strings with 10293 characters,
+and the built_in function-call counts, 7728 in all, are:
+= -- 511
+> -- 100
+< -- 8
++ -- 54
+- -- 21
+* -- 289
+:= -- 1324
+add.period$ -- 43
+call.type$ -- 22
+change.case$ -- 20
+chr.to.int$ -- 21
+cite$ -- 24
+duplicate$ -- 670
+empty$ -- 816
+format.name$ -- 24
+if$ -- 1699
 int.to.chr$ -- 0
-int.to.str$ -- 5
-missing$ -- 32
-newline$ -- 48
-num.names$ -- 1
-pop$ -- 120
+int.to.str$ -- 22
+missing$ -- 150
+newline$ -- 125
+num.names$ -- 16
+pop$ -- 521
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 107
+skip$ -- 561
 stack$ -- 0
-substring$ -- 0
-swap$ -- 61
-text.length$ -- 0
+substring$ -- 69
+swap$ -- 334
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 5
-warning$ -- 0
-while$ -- 1
-width$ -- 6
-write$ -- 64
+type$ -- 22
+warning$ -- 2
+while$ -- 19
+width$ -- 24
+write$ -- 208
+(There were 2 warnings)

@@ -1,9 +1,9 @@
-PWD /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report
+PWD /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report
 INPUT /usr/local/texlive/2018/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/report.tex
-OUTPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/report.log
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/report.tex
+OUTPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/report.log
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptm.fd
@@ -141,14 +141,14 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/report.aux
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/report.aux
-OUTPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/report.aux
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/report.aux
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/report.aux
+OUTPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/report.aux
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-OUTPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/report.pdf
+OUTPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/report.pdf
 INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
@@ -167,57 +167,93 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/times/ptmbi7t.vf
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmbi8r.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/times/ptmrc7t.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/one1.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/one1.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/one1.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m1.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m1.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m1.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m1_t.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m1_t.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m1_t.png
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m2.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m2.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m2.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m2_s.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m2_s.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m2_s.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m2_t.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m2_t.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/m2_t.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/train.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/train.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/images/train.png
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/report.bbl
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/report.bbl
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omlptm.fd
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omlptm.fd
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omsptm.fd
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omsptm.fd
-INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Report/report.aux
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/2.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/2.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/2.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/3.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/3.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/3.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/1.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/1.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/1.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/4.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/4.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/4.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/5.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/5.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/5.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/6.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/6.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/6.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/7.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/7.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/7.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/8.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/8.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/8.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/9.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/9.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/9.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/10.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/10.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/10.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/11.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/11.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/11.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/12.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/12.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/12.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/13.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/13.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/13.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/14.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/14.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/14.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/15.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/15.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/15.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/16.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/16.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/16.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/17.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/17.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/17.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/18.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/18.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/18.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/19.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/19.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/19.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/20.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/20.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/20.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/21.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/21.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/21.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/22.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/22.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/22.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/15.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/15.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/16.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/16.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/17.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/17.png
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/report.bbl
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/report.bbl
+INPUT /Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/report.aux
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb
