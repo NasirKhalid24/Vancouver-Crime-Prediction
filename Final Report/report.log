@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  11 MAY 2019 00:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  11 MAY 2019 00:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -442,24 +442,24 @@ LaTeX Warning: Label `1' multiply defined.
 )
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 
 -- Lines per column: 56 (exact).
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 29.
+Package hyperref Info: Link coloring OFF on input line 26.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -467,9 +467,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count122
 )
-LaTeX Info: Redefining \ref on input line 29.
-LaTeX Info: Redefining \pageref on input line 29.
-LaTeX Info: Redefining \nameref on input line 29.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
 \c@lstlisting=\count123
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
@@ -499,467 +499,475 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Underfull \hbox (badness 10000) in paragraph at lines 109--116
+Underfull \hbox (badness 10000) in paragraph at lines 57--64
 
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 117--124
+Underfull \hbox (badness 2020) in paragraph at lines 65--72
 \OT1/ptm/m/n/10 fac-tors such as weather, lo-ca-tion, so-cial and eco-nomic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--124
+Underfull \hbox (badness 10000) in paragraph at lines 65--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--134
+Underfull \hbox (badness 10000) in paragraph at lines 79--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--138
+Underfull \hbox (badness 10000) in paragraph at lines 83--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--154
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 160.
+(Font)              <7> on input line 108.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 160.
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--177
-
- []
-
+(Font)              <5> on input line 108.
 [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
+
+ []
+
 <images/2.png, id=34, 425.59pt x 295.1025pt>
 File: images/2.png Graphic file (type png)
 <use images/2.png>
-Package pdftex.def Info: images/2.png  used on input line 184.
+Package pdftex.def Info: images/2.png  used on input line 132.
 (pdftex.def)             Requested size: 180.67499pt x 125.27956pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--195
+Underfull \hbox (badness 10000) in paragraph at lines 139--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--201
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--207
+Underfull \hbox (badness 10000) in paragraph at lines 153--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--217
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--237
+Underfull \hbox (badness 10000) in paragraph at lines 182--185
 
  []
 
 <images/3.png, id=40, 356.0502pt x 197.538pt>
 File: images/3.png Graphic file (type png)
 <use images/3.png>
-Package pdftex.def Info: images/3.png  used on input line 246.
+Package pdftex.def Info: images/3.png  used on input line 194.
 (pdftex.def)             Requested size: 195.12877pt x 108.2574pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--263
+Underfull \hbox (badness 10000) in paragraph at lines 206--211
 
  []
 
 [2 </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/2.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
 
  []
 
-<images/1.png, id=64, 448.67625pt x 273.02pt>
+<images/1.png, id=63, 448.67625pt x 273.02pt>
 File: images/1.png Graphic file (type png)
 <use images/1.png>
-Package pdftex.def Info: images/1.png  used on input line 296.
+Package pdftex.def Info: images/1.png  used on input line 244.
 (pdftex.def)             Requested size: 180.67499pt x 109.93927pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\begingroup' on input line 308.
+(hyperref)                removing `\begingroup' on input line 256.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 308.
+(hyperref)                removing `\<let>-command' on input line 256.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\NAT@ctype' on input line 308.
+(hyperref)                removing `\NAT@ctype' on input line 256.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 308.
+(hyperref)                removing `\z@' on input line 256.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\let' on input line 308.
+(hyperref)                removing `\let' on input line 256.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\let' on input line 308.
+(hyperref)                removing `\let' on input line 256.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 308.
+(hyperref)                removing `\@ifnextchar' on input line 256.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 308.
+(hyperref)                removing `subscript' on input line 256.
 
-<images/4.png, id=66, 624.3325pt x 436.63126pt>
+<images/4.png, id=65, 624.3325pt x 436.63126pt>
 File: images/4.png Graphic file (type png)
 <use images/4.png>
-Package pdftex.def Info: images/4.png  used on input line 319.
+Package pdftex.def Info: images/4.png  used on input line 267.
 (pdftex.def)             Requested size: 180.67499pt x 126.35332pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 324--327
+Underfull \hbox (badness 10000) in paragraph at lines 272--275
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 
  []
 
-<images/5.png, id=67, 202.356pt x 118.041pt>
+<images/5.png, id=66, 202.356pt x 118.041pt>
 File: images/5.png Graphic file (type png)
 <use images/5.png>
-Package pdftex.def Info: images/5.png  used on input line 341.
+Package pdftex.def Info: images/5.png  used on input line 289.
 (pdftex.def)             Requested size: 180.67499pt x 105.39836pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 359--360
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 365--366
-
- []
-
 [3 </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/1.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/4.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+
+ []
+
 <images/6.png, id=89, 304.0158pt x 213.4374pt>
 File: images/6.png Graphic file (type png)
 <use images/6.png>
-Package pdftex.def Info: images/6.png  used on input line 374.
+Package pdftex.def Info: images/6.png  used on input line 322.
 (pdftex.def)             Requested size: 180.67499pt x 126.84863pt.
 <images/7.png, id=90, 830.10126pt x 561.09625pt>
 File: images/7.png Graphic file (type png)
 <use images/7.png>
-Package pdftex.def Info: images/7.png  used on input line 385.
+Package pdftex.def Info: images/7.png  used on input line 333.
 (pdftex.def)             Requested size: 180.67499pt x 122.12306pt.
 <images/8.png, id=91, 818.05624pt x 555.07375pt>
 File: images/8.png Graphic file (type png)
 <use images/8.png>
-Package pdftex.def Info: images/8.png  used on input line 394.
+Package pdftex.def Info: images/8.png  used on input line 342.
 (pdftex.def)             Requested size: 180.67499pt x 122.5909pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 <images/9.png, id=92, 238.491pt x 129.1224pt>
 File: images/9.png Graphic file (type png)
 <use images/9.png>
-Package pdftex.def Info: images/9.png  used on input line 406.
+Package pdftex.def Info: images/9.png  used on input line 354.
 (pdftex.def)             Requested size: 180.67499pt x 97.82077pt.
 
-Underfull \vbox (badness 1221) has occurred while \output is active []
 
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\begingroup' on input line 366.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\begingroup' on input line 418.
+(hyperref)                removing `\<let>-command' on input line 366.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 418.
+(hyperref)                removing `\NAT@ctype' on input line 366.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\NAT@ctype' on input line 418.
+(hyperref)                removing `\z@' on input line 366.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 418.
+(hyperref)                removing `\let' on input line 366.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\let' on input line 418.
+(hyperref)                removing `\let' on input line 366.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\let' on input line 418.
+(hyperref)                removing `\@ifnextchar' on input line 366.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 418.
+(hyperref)                removing `subscript' on input line 366.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 418.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 439--440
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
 
  []
 
-<images/10.png, id=95, 1101.11375pt x 550.055pt>
+[4 </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/6.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/7.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/8.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/9.png>]
+<images/10.png, id=109, 1101.11375pt x 550.055pt>
 File: images/10.png Graphic file (type png)
 <use images/10.png>
-Package pdftex.def Info: images/10.png  used on input line 450.
+Package pdftex.def Info: images/10.png  used on input line 398.
 (pdftex.def)             Requested size: 180.67499pt x 90.25156pt.
-[4 </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/6.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/7.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/8.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/9.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/10.png>]
-<images/11.png, id=112, 763.85374pt x 619.31375pt>
+<images/11.png, id=110, 763.85374pt x 619.31375pt>
 File: images/11.png Graphic file (type png)
 <use images/11.png>
-Package pdftex.def Info: images/11.png  used on input line 461.
+Package pdftex.def Info: images/11.png  used on input line 409.
 (pdftex.def)             Requested size: 180.67499pt x 146.48375pt.
-<images/12.png, id=113, 570.13pt x 375.4025pt>
+<images/12.png, id=111, 570.13pt x 375.4025pt>
 File: images/12.png Graphic file (type png)
 <use images/12.png>
-Package pdftex.def Info: images/12.png  used on input line 472.
+Package pdftex.def Info: images/12.png  used on input line 420.
 (pdftex.def)             Requested size: 180.67499pt x 118.9627pt.
-<images/13.png, id=114, 534.99875pt x 373.395pt>
+<images/13.png, id=112, 534.99875pt x 373.395pt>
 File: images/13.png Graphic file (type png)
 <use images/13.png>
-Package pdftex.def Info: images/13.png  used on input line 481.
+Package pdftex.def Info: images/13.png  used on input line 429.
 (pdftex.def)             Requested size: 180.67499pt x 126.09798pt.
-<images/14.png, id=115, 705.63625pt x 761.84625pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<images/14.png, id=113, 705.63625pt x 761.84625pt>
 File: images/14.png Graphic file (type png)
 <use images/14.png>
-Package pdftex.def Info: images/14.png  used on input line 497.
+Package pdftex.def Info: images/14.png  used on input line 445.
 (pdftex.def)             Requested size: 216.81pt x 234.07742pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\begingroup' on input line 502.
+(hyperref)                removing `\begingroup' on input line 450.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 502.
+(hyperref)                removing `\<let>-command' on input line 450.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\NAT@ctype' on input line 502.
+(hyperref)                removing `\NAT@ctype' on input line 450.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 502.
+(hyperref)                removing `\z@' on input line 450.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\let' on input line 502.
+(hyperref)                removing `\let' on input line 450.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\let' on input line 502.
+(hyperref)                removing `\let' on input line 450.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 502.
+(hyperref)                removing `\@ifnextchar' on input line 450.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 502.
+(hyperref)                removing `subscript' on input line 450.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 521--522
+[5 </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/10.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/11.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/12.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/13.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/14.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 469--470
 
  []
 
-<images/15.png, id=118, 857.2025pt x 481.8pt>
+<images/15.png, id=132, 857.2025pt x 481.8pt>
 File: images/15.png Graphic file (type png)
 <use images/15.png>
-Package pdftex.def Info: images/15.png  used on input line 535.
+Package pdftex.def Info: images/15.png  used on input line 483.
 (pdftex.def)             Requested size: 180.67499pt x 101.54857pt.
-[5 </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/11.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/12.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/13.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/14.png>]
 <images/16.png, id=133, 612.2875pt x 414.54875pt>
 File: images/16.png Graphic file (type png)
 <use images/16.png>
-Package pdftex.def Info: images/16.png  used on input line 546.
+Package pdftex.def Info: images/16.png  used on input line 494.
 (pdftex.def)             Requested size: 180.67499pt x 122.32243pt.
 <images/17.png, id=134, 624.3325pt x 416.55624pt>
 File: images/17.png Graphic file (type png)
 <use images/17.png>
-Package pdftex.def Info: images/17.png  used on input line 555.
+Package pdftex.def Info: images/17.png  used on input line 503.
 (pdftex.def)             Requested size: 180.67499pt x 120.54396pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 <images/18.png, id=135, 512.91624pt x 467.7475pt>
 File: images/18.png Graphic file (type png)
 <use images/18.png>
-Package pdftex.def Info: images/18.png  used on input line 567.
+Package pdftex.def Info: images/18.png  used on input line 515.
 (pdftex.def)             Requested size: 115.63243pt x 105.44562pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\begingroup' on input line 572.
+(hyperref)                removing `\begingroup' on input line 520.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 572.
+(hyperref)                removing `\<let>-command' on input line 520.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\NAT@ctype' on input line 572.
+(hyperref)                removing `\NAT@ctype' on input line 520.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 572.
+(hyperref)                removing `\z@' on input line 520.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\let' on input line 572.
+(hyperref)                removing `\let' on input line 520.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\let' on input line 572.
+(hyperref)                removing `\let' on input line 520.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 572.
+(hyperref)                removing `\@ifnextchar' on input line 520.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 572.
+(hyperref)                removing `subscript' on input line 520.
 
 <images/19.png, id=137, 631.35875pt x 422.57875pt>
 File: images/19.png Graphic file (type png)
 <use images/19.png>
-Package pdftex.def Info: images/19.png  used on input line 594.
+Package pdftex.def Info: images/19.png  used on input line 542.
 (pdftex.def)             Requested size: 180.67499pt x 120.92624pt.
-<images/20.png, id=138, 608.2725pt x 433.62pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/15.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/16.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/17.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/18.png>]
+<images/20.png, id=152, 608.2725pt x 433.62pt>
 File: images/20.png Graphic file (type png)
 <use images/20.png>
-Package pdftex.def Info: images/20.png  used on input line 603.
+Package pdftex.def Info: images/20.png  used on input line 551.
 (pdftex.def)             Requested size: 180.67499pt x 128.79678pt.
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\begingroup' on input line 611.
-
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 611.
+(hyperref)                removing `\begingroup' on input line 559.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\NAT@ctype' on input line 611.
+(hyperref)                removing `\<let>-command' on input line 559.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 611.
+(hyperref)                removing `\NAT@ctype' on input line 559.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\let' on input line 611.
+(hyperref)                removing `\z@' on input line 559.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\let' on input line 611.
+(hyperref)                removing `\let' on input line 559.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 611.
+(hyperref)                removing `\let' on input line 559.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 611.
+(hyperref)                removing `\@ifnextchar' on input line 559.
 
-[6 </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/15.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/16.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/17.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/18.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/19.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/20.png>]
-<images/21.png, id=161, 518.93875pt x 351.3125pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 559.
+
+<images/21.png, id=155, 518.93875pt x 351.3125pt>
 File: images/21.png Graphic file (type png)
 <use images/21.png>
-Package pdftex.def Info: images/21.png  used on input line 634.
+Package pdftex.def Info: images/21.png  used on input line 582.
 (pdftex.def)             Requested size: 180.67499pt x 122.31258pt.
-<images/22.png, id=162, 512.91624pt x 358.33875pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<images/22.png, id=156, 512.91624pt x 358.33875pt>
 File: images/22.png Graphic file (type png)
 <use images/22.png>
-Package pdftex.def Info: images/22.png  used on input line 643.
+Package pdftex.def Info: images/22.png  used on input line 591.
 (pdftex.def)             Requested size: 180.67499pt x 126.2242pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\begingroup' on input line 651.
+(hyperref)                removing `\begingroup' on input line 599.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 651.
+(hyperref)                removing `\<let>-command' on input line 599.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\NAT@ctype' on input line 651.
+(hyperref)                removing `\NAT@ctype' on input line 599.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 651.
+(hyperref)                removing `\z@' on input line 599.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\let' on input line 651.
+(hyperref)                removing `\let' on input line 599.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\let' on input line 651.
+(hyperref)                removing `\let' on input line 599.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 651.
+(hyperref)                removing `\@ifnextchar' on input line 599.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 651.
+(hyperref)                removing `subscript' on input line 599.
 
 File: images/15.png Graphic file (type png)
 <use images/15.png>
-Package pdftex.def Info: images/15.png  used on input line 663.
+Package pdftex.def Info: images/15.png  used on input line 611.
 (pdftex.def)             Requested size: 180.67499pt x 101.54857pt.
-
-Underfull \vbox (badness 2818) has occurred while \output is active []
-
 File: images/16.png Graphic file (type png)
 <use images/16.png>
-Package pdftex.def Info: images/16.png  used on input line 674.
+Package pdftex.def Info: images/16.png  used on input line 622.
 (pdftex.def)             Requested size: 180.67499pt x 122.32243pt.
+[7 </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/19.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/20.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/21.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/22.png>]
 File: images/17.png Graphic file (type png)
 <use images/17.png>
-Package pdftex.def Info: images/17.png  used on input line 683.
+Package pdftex.def Info: images/17.png  used on input line 631.
 (pdftex.def)             Requested size: 180.67499pt x 120.54396pt.
- (/Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/report.bbl [7 </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/21.png> </Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/images/22.png>]
+ (/Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/report.bbl
 Underfull \hbox (badness 1584) in paragraph at lines 84--88
 \OT1/ptm/m/n/10 dataset - ele494-project.'' [On-line]. Avail-
  []
@@ -991,28 +999,28 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 703.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 651.
 [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 703.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 651.
  (/Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 703.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 703.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 651.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 651.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 703.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 651.
  ) 
 Here is how much of TeX's memory you used:
- 10232 strings out of 492649
- 160554 string characters out of 6129622
- 268107 words of memory out of 5000000
+ 10229 strings out of 492649
+ 160523 string characters out of 6129622
+ 266103 words of memory out of 5000000
  13900 multiletter control sequences out of 15000+600000
  34085 words of font info for 63 fonts, out of 8000000 for 9000
- 1144 hyphenation exceptions out of 8191
- 36i,8n,77p,344b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 1141 hyphenation exceptions out of 8191
+ 36i,8n,77p,344b,417s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "/Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/report.pdf" (8 pages, 1433385 bytes).
+Output written on "/Users/nasirkhalid/Desktop/University/Deep Learning/Project/Final Report/report.pdf" (8 pages, 1438675 bytes).
 PDF statistics:
  324 PDF objects out of 1000 (max. 8388607)
  261 compressed objects within 3 object streams
